@@ -1,36 +1,35 @@
 ---
 title: Evgeniy Samsonenko
 ---
+
 ##### <kimmgim@gmail.com> | +380 939 100 687 | [linkedin.com/in/evgen-samsonenko](https://linkedin.com/in/evgen-samsonenko-61b773207)
 
-About Me
---------------------
+## About Me
+
 I am an engineer from Ukraine. I like photography and everything related web development. I want have new knowlage and head opportunity to meet new people and share experiences.
 
+## Professional Experience
 
-Professional Experience
---------------------
-Base knowlage HTML/CSS   
+Base knowlage HTML/CSS
 
-Study
-----------------------------------
+## Study
+
 Poltava University of Economics and Trade specialtie Social Informatics
 
-Skills
-----------------------------------
-Leader
-:   Team motivation, mentorship, cultivation of soft/hard skills of team members.
+## Skills
 
+Leader
+: Team motivation, mentorship, cultivation of soft/hard skills of team members.
 
 English
-:   
+:
 
-Activities and interests
-------------------------
+## Activities and interests
+
 Travel
-:   I like to explore new cities and countries. 
+: I like to explore new cities and countries.
 
 Photography
-:   I love shot phantastic landscape. 
+: I love shot phantastic landscape.
 
-###### CV last updated: 20.02.2021
+###### CV last updated: 17.06.2022
