@@ -34,6 +34,10 @@ return a * b
 }
 ```
 
+## Done project
+
+[my CV](https://github.com/evgeniysam/rsschool-cv/blob/gh-pages/cv.md)
+
 ## Activities and interests
 
 Travel
