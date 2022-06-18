@@ -6,6 +6,7 @@ title: Evgeniy Samsonenko
 
 ## About Me
 
+![Photo](/images/photo.jpeg)
 I am an engineer from Ukraine. I like photography and everything related web development. I want have new knowlage and head opportunity to meet new people and share experiences.
 
 ## Professional Experience
