@@ -2,11 +2,12 @@
 title: Evgeniy Samsonenko
 ---
 
-##### <kimmgim@gmail.com> | +380 939 100 687 | [linkedin.com/in/evgen-samsonenko](https://linkedin.com/in/evgen-samsonenko-61b773207)
+##### <kimmgim@gmail.com> | +380 939 100 687 | [linkedin.com/in/evgen-samsonenko](https://linkedin.com/in/evgen-samsonenko-61b773207) | discord: Kimgim#4389
 
 ## About Me
 
 ![Photo](/image/photo.jpeg)
+
 I am an engineer from Ukraine. I like photography and everything related web development. I want have new knowlage and head opportunity to meet new people and share experiences.
 
 ## Professional Experience
@@ -24,6 +25,13 @@ Leader
 
 English
 :
+
+## Codewar enter solution
+
+```function multiply(a, b) {
+return a * b
+}
+```
 
 ## Activities and interests
 
