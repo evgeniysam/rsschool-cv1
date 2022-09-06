@@ -14,7 +14,7 @@ I am an engineer from Ukraine. I like photography and everything related web dev
 
 Base knowlage HTML/CSS
 
-## Studyy
+## Study
 
 Poltava University of Economics and Trade specialtie Social Informatics
 
