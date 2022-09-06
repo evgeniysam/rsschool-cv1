@@ -46,4 +46,4 @@ Travel
 Photography
 : I love shot phantastic landscape.
 
-###### CV last updated: 17.06.2022
+###### CV last updated: 6.09.2022
